@@ -1,0 +1,457 @@
+station_name,line,opening_date,connections
+Gucheng,1,1969,Pingguoyuan
+Pingguoyuan,1,1969,Gucheng;Fushouling
+Fushouling,1,1969,Pingguoyuan
+Bajiao Amusement Park,1,1969,Gucheng;Babaoshan
+Babaoshan,1,1969,Bajiao Amusement Park;Yuquanlu
+Yuquanlu,1,1969,Babaoshan;Wukesong
+Wukesong,1,1971,Yuquanlu;Wanshoulu
+Wanshoulu,1,1971,Wukesong;Gongzhufen
+Gongzhufen,1,1971,Wanshoulu;Military Museum
+Military Museum,1,1971,Gongzhufen;Muxidi
+Muxidi,1,1971,Military Museum;Nanlishilu
+Nanlishilu,1,1971,Muxidi;Fuxingmen
+Fuxingmen,1,1971,Nanlishilu;Xidan
+Xidan,1,1992,Fuxingmen;Tian'anmen West
+Tian'anmen West,1,1999,Xidan;Tian'anmen East
+Tian'anmen East,1,1999,Tian'anmen West;Wangfujing
+Wangfujing,1,1999,Tian'anmen East;Dongdan
+Dongdan,1,1999,Wangfujing;Jianguomen
+Jianguomen,1,1999,Dongdan;Yong'anli
+Yong'anli,1,1999,Jianguomen;Guomao
+Guomao,1,1999,Yong'anli;Dawanglu
+Dawanglu,1,1999,Guomao;Sihui
+Sihui,1,1999,Dawanglu;Sihui East
+Sihui East,Batong,2003,Sihui;Gaobeidian
+Gaobeidian,Batong,2003,Sihui East;Communication University of China
+Communication University of China,Batong,2003,Gaobeidian;Shuangqiao
+Shuangqiao,Batong,2003,Communication University of China;Guanzhuang
+Guanzhuang,Batong,2003,Shuangqiao;Baliqiao
+Baliqiao,Batong,2003,Guanzhuang;Tongzhou Beiyuan
+Tongzhou Beiyuan,Batong,2003,Baliqiao;Guoyuan
+Guoyuan,Batong,2003,Tongzhou Beiyuan;Jiukeshu
+Jiukeshu,Batong,2003,Guoyuan;Liyuan
+Liyuan,Batong,2003,Jiukeshu;Linheli
+Linheli,Batong,2003,Liyuan;Tuqiao
+Tuqiao,Batong,2003,Linheli;Hua Zhuang
+Hua Zhuang,Batong,2019,Tuqiao;Universal Resort
+Universal Resort,Batong,2021,Hua Zhuang
+Xizhimen,2,1984,Jishuitan;Chegongzhuang
+Chegongzhuang,2,1984,Xizhimen;Fuchengmen
+Fuchengmen,2,1984,Chegongzhuang;Fuxingmen
+Fuxingmen,2,1984,Fuchengmen;Changchunjie
+Changchunjie,2,1984,Fuxingmen;Xuanwumen
+Xuanwumen,2,1984,Changchunjie;Hepingmen
+Hepingmen,2,1984,Xuanwumen;Qianmen
+Qianmen,2,1984,Hepingmen;Chongwenmen
+Chongwenmen,2,1984,Qianmen;Beijing Railway Station
+Beijing Railway Station,2,1984,Chongwenmen;Jianguomen
+Jianguomen,2,1984,Beijing Railway Station;Chaoyangmen
+Chaoyangmen,2,1984,Jianguomen;Dongsi Shitiao
+Dongsi Shitiao,2,1984,Chaoyangmen;Dongzhimen
+Dongzhimen,2,1984,Dongsi Shitiao;Yonghegong Lama Temple
+Yonghegong Lama Temple,2,1984,Dongzhimen;Andingmen
+Andingmen,2,1984,Yonghegong Lama Temple;Guloudajie
+Guloudajie,2,1984,Andingmen;Jishuitan
+Jishuitan,2,1984,Guloudajie;Xizhimen
+Anheqiao North,4,2009,Beigongmen
+Beigongmen,4,2009,Anheqiao North;Xiyuan
+Xiyuan,4,2009,Beigongmen;Yuanmingyuan Park
+Yuanmingyuan Park,4,2009,Xiyuan;Peking University East Gate
+Peking University East Gate,4,2009,Yuanmingyuan Park;Zhongguancun
+Zhongguancun,4,2009,Peking University East Gate;Haidian Huangzhuang
+Haidian Huangzhuang,4,2009,Zhongguancun;Renmin University
+Renmin University,4,2009,Haidian Huangzhuang;Weigongcun
+Weigongcun,4,2009,Renmin University;National Library
+National Library,4,2009,Weigongcun;Beijing Zoo
+Beijing Zoo,4,2009,National Library;Xizhimen
+Xizhimen,4,2009,Beijing Zoo;Xinjiekou
+Xinjiekou,4,2009,Xizhimen;Ping'anli
+Ping'anli,4,2009,Xinjiekou;Xisi
+Xisi,4,2009,Ping'anli;Lingjing Hutong
+Lingjing Hutong,4,2009,Xisi;Xidan
+Xidan,4,2009,Lingjing Hutong;Xuanwumen
+Xuanwumen,4,2009,Xidan;Caishikou
+Caishikou,4,2009,Xuanwumen;Taoranting
+Taoranting,4,2009,Caishikou;Beijing South Railway Station
+Beijing South Railway Station,4,2009,Taoranting;Majiapu
+Majiapu,4,2009,Beijing South Railway Station;Jiaomen West
+Jiaomen West,4,2009,Majiapu;Gongyixiqiao
+Gongyixiqiao,Daxing,2010,Jiaomen West;Xingong
+Xingong,Daxing,2010,Gongyixiqiao;Xihongmen
+Xihongmen,Daxing,2010,Xingong;Gaomidian North
+Gaomidian North,Daxing,2010,Xihongmen;Gaomidian South
+Gaomidian South,Daxing,2010,Gaomidian North;Zaoyuan
+Zaoyuan,Daxing,2010,Gaomidian South;Qingyuan Road
+Qingyuan Road,Daxing,2010,Zaoyuan;Huangcun Xidajie
+Huangcun Xidajie,Daxing,2010,Qingyuan Road;Huangcun Railway Station
+Huangcun Railway Station,Daxing,2010,Huangcun Xidajie;Yihezhuang
+Yihezhuang,Daxing,2010,Huangcun Railway Station;Biomedical Base
+Biomedical Base,Daxing,2010,Yihezhuang;Tiangongyuan
+Tiangongyuan,Daxing,2010,Biomedical Base
+Tiantongyuan North,5,2007,Tiantongyuan
+Tiantongyuan,5,2007,Tiantongyuan North;Tiantongyuan South
+Tiantongyuan South,5,2007,Tiantongyuan;Lishuiqiao
+Lishuiqiao,5,2007,Tiantongyuan South;Lishuiqiao South
+Lishuiqiao South,5,2007,Lishuiqiao;Beiyuanlu North
+Beiyuanlu North,5,2007,Lishuiqiao South;Datunlu East
+Datunlu East,5,2007,Beiyuanlu North;Huixinxijie Beikou
+Huixinxijie Beikou,5,2007,Datunlu East;Huixinxijie Nankou
+Huixinxijie Nankou,5,2007,Huixinxijie Beikou;Hepingxiqiao
+Hepingxiqiao,5,2007,Huixinxijie Nankou;Hepingli Beijie
+Hepingli Beijie,5,2007,Hepingxiqiao;Yonghegong Lama Temple
+Yonghegong Lama Temple,5,2007,Hepingli Beijie;Beixinqiao
+Beixinqiao,5,2007,Yonghegong Lama Temple;Zhangzizhonglu
+Zhangzizhonglu,5,2007,Beixinqiao;Dongsi
+Dongsi,5,2007,Zhangzizhonglu;Dengshikou
+Dengshikou,5,2007,Dongsi;Dongdan
+Dongdan,5,2007,Dengshikou;Chongwenmen
+Chongwenmen,5,2007,Dongdan;Ciqikou
+Ciqikou,5,2007,Chongwenmen;Tiantandongmen
+Tiantandongmen,5,2007,Ciqikou;Puhuangyu
+Puhuangyu,5,2007,Tiantandongmen;Liujiayao
+Liujiayao,5,2007,Puhuangyu;Songjiazhuang
+Songjiazhuang,5,2007,Liujiayao
+Jin'anqiao,6,2018,Pingguoyuan;Yangzhuang
+Yangzhuang,6,2018,Jin'anqiao;Xihuangcun
+Xihuangcun,6,2014,Yangzhuang;Liaogongzhuang
+Liaogongzhuang,6,2014,Xihuangcun;Tiancun
+Tiancun,6,2014,Liaogongzhuang;Haidian Wuluju
+Haidian Wuluju,6,2012,Tiancun;Cishousi
+Cishousi,6,2012,Haidian Wuluju;Huayuanqiao
+Huayuanqiao,6,2012,Cishousi;Baishiqiao South
+Baishiqiao South,6,2012,Huayuanqiao;Chegongzhuang West
+Chegongzhuang West,6,2012,Baishiqiao South;Chegongzhuang
+Chegongzhuang,6,2012,Chegongzhuang West;Ping'anli
+Ping'anli,6,2012,Chegongzhuang;Beihai North
+Beihai North,6,2012,Ping'anli;Nanluoguxiang
+Nanluoguxiang,6,2012,Beihai North;Dongsi
+Dongsi,6,2012,Nanluoguxiang;Chaoyangmen
+Chaoyangmen,6,2012,Dongsi;Dongsishitiao
+Dongsishitiao,6,2012,Chaoyangmen;Hujialou
+Hujialou,6,2012,Dongsishitiao;Jintai Road
+Jintai Road,6,2012,Hujialou;Shilipu
+Shilipu,6,2012,Jintai Road;Qingnian Road
+Qingnian Road,6,2012,Shilipu;Dalianpo
+Dalianpo,6,2012,Qingnian Road;Huangqu
+Huangqu,6,2012,Dalianpo;Changying
+Changying,6,2012,Huangqu;Caofang
+Caofang,6,2012,Changying;Wuzixueyuanlu
+Wuzixueyuanlu,6,2014,Caofang;Tongzhou Beiguan
+Tongzhou Beiguan,6,2014,Wuzixueyuanlu;Haojiafu
+Haojiafu,6,2019,Tongzhou Beiguan;Dongxiayuan
+Dongxiayuan,6,2019,Haojiafu;Lucheng
+Lucheng,6,2014,Dongxiayuan
+Beijing West Railway Station,7,2014,Wanzi
+Wanzi,7,2014,Beijing West Railway Station;Daguanying
+Daguanying,7,2014,Wanzi;Guang'anmennei
+Guang'anmennei,7,2014,Daguanying;Caishikou
+Caishikou,7,2014,Guang'anmennei;Hufangqiao
+Hufangqiao,7,2014,Caishikou;Zhushikou
+Zhushikou,7,2014,Hufangqiao;Qiaowan
+Qiaowan,7,2014,Zhushikou;Ciqikou
+Ciqikou,7,2014,Qiaowan;Guangqumennei
+Guangqumennei,7,2014,Ciqikou;Guangqumenwai
+Guangqumenwai,7,2014,Guangqumennei;Shuangjing
+Shuangjing,7,2014,Guangqumenwai;Jiulongshan
+Jiulongshan,7,2014,Shuangjing;Dajiaoting
+Dajiaoting,7,2014,Jiulongshan;Baiziwan
+Baiziwan,7,2014,Dajiaoting;Huagong
+Huagong,7,2014,Baiziwan;Nanlouzizhuang
+Nanlouzizhuang,7,2014,Huagong;Happy Valley Scenic Area
+Happy Valley Scenic Area,7,2014,Nanlouzizhuang;Fatou
+Fatou,7,2014,Happy Valley Scenic Area;Shuanghe
+Shuanghe,7,2014,Fatou;Jiaohuachang
+Jiaohuachang,7,2014,Shuanghe;Gaoloujin
+Gaoloujin,7,2019,Jiaohuachang;Hua Zhuang
+Hua Zhuang,7,2019,Gaoloujin;Universal Resort
+Universal Resort,7,2021,Hua Zhuang
+Zhuxinzhuang,8,2013,Yuzhilu
+Yuzhilu,8,2013,Zhuxinzhuang;Pingxifu
+Pingxifu,8,2013,Yuzhilu;Huoying
+Huoying,8,2011,Pingxifu;Huilongguan Dongdajie
+Huilongguan Dongdajie,8,2011,Huoying;Huoqiying
+Huoqiying,8,2011,Huilongguan Dongdajie;Yuxin
+Yuxin,8,2011,Huoqiying;Xixiaokou
+Xixiaokou,8,2011,Yuxin;Yongtaizhuang
+Yongtaizhuang,8,2011,Xixiaokou;Lincuiqiao
+Lincuiqiao,8,2011,Yongtaizhuang;Forest Park South Gate
+Forest Park South Gate,8,2008,Lincuiqiao;Olympic Green
+Olympic Green,8,2008,Forest Park South Gate;Olympic Sports Center
+Olympic Sports Center,8,2008,Olympic Green;Beitucheng
+Beitucheng,8,2008,Olympic Sports Center;Anhuaqiao
+Anhuaqiao,8,2011,Beitucheng;Andelibeijie
+Andelibeijie,8,2011,Anhuaqiao;Guloudajie
+Guloudajie,8,2012,Andelibeijie;Shichahai
+Shichahai,8,2013,Guloudajie;Nanluoguxiang
+Nanluoguxiang,8,2013,Shichahai;National Art Museum
+National Art Museum,8,2018,Nanluoguxiang;Jinyu Hutong
+Jinyu Hutong,8,2021,National Art Museum;Wangfujing
+Wangfujing,8,2021,Jinyu Hutong;Qianmen
+Qianmen,8,2021,Wangfujing;Zhushikou
+Zhushikou,8,2018,Qianmen;Tianqiao
+Tianqiao,8,2018,Zhushikou;Yongdingmenwai
+Yongdingmenwai,8,2018,Tianqiao;Muxiyuan
+Muxiyuan,8,2018,Yongdingmenwai;Haihuzi
+Haihuzi,8,2018,Muxiyuan;Dahongmen
+Dahongmen,8,2018,Haihuzi;Dahongmen South
+Dahongmen South,8,2018,Dahongmen;Heyi
+Heyi,8,2018,Dahongmen South;Hujialou
+Hujialou,8,2018,Heyi;Wufutang
+Wufutang,8,2018,Hujialou;Dematang
+Dematang,8,2018,Wufutang;Yinghai
+Yinghai,8,2018,Dematang
+National Library,9,2012,Baishiqiao South
+Baishiqiao South,9,2012,National Library;Baiduizi
+Baiduizi,9,2012,Baishiqiao South;Military Museum
+Military Museum,9,2012,Baiduizi;Beijing West Railway Station
+Beijing West Railway Station,9,2011,Military Museum;Liuliqiao East
+Liuliqiao East,9,2011,Beijing West Railway Station;Liuliqiao
+Liuliqiao,9,2011,Liuliqiao East;Qilizhuang
+Qilizhuang,9,2011,Liuliqiao;Fengtai Dongdajie
+Fengtai Dongdajie,9,2011,Qilizhuang;Fengtai Nanlu
+Fengtai Nanlu,9,2011,Fengtai Dongdajie;Keyilu
+Keyilu,9,2011,Fengtai Nanlu;Fengtai Science Park
+Fengtai Science Park,9,2011,Keyilu;Guogongzhuang
+Guogongzhuang,9,2011,Fengtai Science Park
+Bagou,10,2008,Suzhoujie
+Suzhoujie,10,2008,Bagou;Haidian Huangzhuang
+Haidian Huangzhuang,10,2008,Suzhoujie;Zhichunli
+Zhichunli,10,2008,Haidian Huangzhuang;Zhichunlu
+Zhichunlu,10,2008,Zhichunli;Xitucheng
+Xitucheng,10,2008,Zhichunlu;Mudanjiang
+Mudanjiang,10,2008,Xitucheng;Jiandemen
+Jiandemen,10,2008,Mudanjiang;Beitucheng
+Beitucheng,10,2008,Jiandemen;Anzhenmen
+Anzhenmen,10,2008,Beitucheng;Huixinxijie Nankou
+Huixinxijie Nankou,10,2008,Anzhenmen;Shaoyaoju
+Shaoyaoju,10,2008,Huixinxijie Nankou;Taiyanggong
+Taiyanggong,10,2008,Shaoyaoju;Sanyuanqiao
+Sanyuanqiao,10,2008,Taiyanggong;Liangmaqiao
+Liangmaqiao,10,2008,Sanyuanqiao;Agricultural Exhibition Center
+Agricultural Exhibition Center,10,2008,Liangmaqiao;Tuanjiehu
+Tuanjiehu,10,2008,Agricultural Exhibition Center;Hujialou
+Hujialou,10,2008,Tuanjiehu;Jintai Xizhao
+Jintai Xizhao,10,2008,Hujialou;Guomao
+Guomao,10,2008,Jintai Xizhao;Shuangjing
+Shuangjing,10,2008,Guomao;Jinsong
+Jinsong,10,2012,Shuangjing;Panjiayuan
+Panjiayuan,10,2012,Jinsong;Shilihe
+Shilihe,10,2012,Panjiayuan;Fenzhongsi
+Fenzhongsi,10,2012,Shilihe;Songjiazhuang
+Songjiazhuang,10,2012,Fenzhongsi;Chengshousi
+Chengshousi,10,2012,Songjiazhuang;Dahongmen
+Dahongmen,10,2012,Chengshousi;Jiaomen East
+Jiaomen East,10,2012,Dahongmen;Jiaomen West
+Jiaomen West,10,2012,Jiaomen East;Caoqiao
+Caoqiao,10,2012,Jiaomen West;Jijiamiao
+Jijiamiao,10,2012,Caoqiao;Shoujingmao
+Shoujingmao,10,2012,Jijiamiao;Fengtai Railway Station
+Fengtai Railway Station,10,2013,Shoujingmao;Niwa
+Niwa,10,2013,Fengtai Railway Station;Xiju
+Xiju,10,2013,Niwa;Liuliqiao
+Liuliqiao,10,2013,Xiju;Lianhuaqiao
+Lianhuaqiao,10,2013,Liuliqiao;Gongzhufen
+Gongzhufen,10,2013,Lianhuaqiao;Xidiaoyutai
+Xidiaoyutai,10,2013,Gongzhufen;Cishousi
+Cishousi,10,2013,Xidiaoyutai;Chedaogou
+Chedaogou,10,2013,Cishousi;Huoqiying
+Huoqiying,10,2013,Chedaogou;Bagou
+Moshikou,11,2021,Jin'anqiao
+Jin'anqiao,11,2021,Moshikou;Beixin'an
+Beixin'an,11,2021,Jin'anqiao;Shougang Park
+Shougang Park,11,2021,Beixin'an
+Xizhimen,13,2002,Dazhongsi
+Dazhongsi,13,2002,Xizhimen;Zhichunlu
+Zhichunlu,13,2002,Dazhongsi;Wudaokou
+Wudaokou,13,2002,Zhichunlu;Shangdi
+Shangdi,13,2002,Wudaokou;Qinghe Railway Station
+Qinghe Railway Station,13,2019,Shangdi;Xi'erqi
+Xi'erqi,13,2002,Qinghe Railway Station;Longze
+Longze,13,2002,Xi'erqi;Huilongguan
+Huilongguan,13,2002,Longze;Huoying
+Huoying,13,2002,Huilongguan;Lishuiqiao
+Lishuiqiao,13,2002,Huoying;Beiyuan
+Beiyuan,13,2003,Lishuiqiao;Wangjing West
+Wangjing West,13,2003,Beiyuan;Shaoyaoju
+Shaoyaoju,13,2003,Wangjing West;Guangximen
+Guangximen,13,2003,Shaoyaoju;Liufang
+Liufang,13,2003,Guangximen;Dongzhimen
+Dongzhimen,13,2003,Liufang
+Xiju,14,2014,Qilizhuang
+Qilizhuang,14,2014,Xiju;Dajing
+Dajing,14,2014,Qilizhuang;Guozhuangzi
+Guozhuangzi,14,2014,Dajing;Dawayao
+Dawayao,14,2014,Guozhuangzi;Yuanboyuan
+Yuanboyuan,14,2013,Dawayao;Zhangguozhuang
+Zhangguozhuang,14,2013,Yuanboyuan
+Lize Shangwuqu,14,2021,Dongguantou
+Dongguantou,14,2021,Lize Shangwuqu;Beijing South Railway Station
+Beijing South Railway Station,14,2015,Dongguantou;Yongdingmenwai
+Yongdingmenwai,14,2015,Beijing South Railway Station;Jingtai
+Jingtai,14,2015,Yongdingmenwai;Puhuangyu
+Puhuangyu,14,2015,Jingtai;Fangzhuang
+Fangzhuang,14,2015,Puhuangyu;Shilihe
+Shilihe,14,2015,Fangzhuang;Beigongda Ximen
+Beigongda Ximen,14,2014,Shilihe;Pingleyuan
+Pingleyuan,14,2014,Beigongda Ximen;Jiulongshan
+Jiulongshan,14,2014,Pingleyuan;Dawanglu
+Dawanglu,14,2014,Jiulongshan;Jintai Road
+Jintai Road,14,2014,Dawanglu;Chaoyang Park
+Chaoyang Park,14,2014,Jintai Road;Zaoying
+Zaoying,14,2014,Chaoyang Park;Dongfeng Beiqiao
+Dongfeng Beiqiao,14,2014,Zaoying;Jiangtai
+Jiangtai,14,2014,Dongfeng Beiqiao;Wangjing South
+Wangjing South,14,2014,Jiangtai;Futong
+Futong,14,2014,Wangjing South;Wangjing
+Wangjing,14,2014,Futong;Donghuqu
+Donghuqu,14,2014,Wangjing;Laiguangying
+Laiguangying,14,2014,Donghuqu;Shangezhuang
+Shangezhuang,14,2014,Laiguangying
+Qinghuadonglu Xikou,15,2014,Liudaokou
+Liudaokou,15,2014,Qinghuadonglu Xikou;Beishatan
+Beishatan,15,2014,Beishatan;Olympic Green
+Olympic Green,15,2014,Beishatan;Anlilu
+Anlilu,15,2014,Olympic Green;Datunlu East
+Datunlu East,15,2014,Anlilu;Guanzhuang
+Guanzhuang,15,2011,Datunlu East;Wangjing West
+Wangjing West,15,2010,Guanzhuang;Wangjing
+Wangjing,15,2010,Wangjing West;Cuigezhuang
+Cuigezhuang,15,2010,Wangjing;Maquanying
+Maquanying,15,2010,Cuigezhuang;Sunhe
+Sunhe,15,2010,Sunhe;China International Exhibition Center
+China International Exhibition Center,15,2010,Sunhe;Hualikan
+Hualikan,15,2010,China International Exhibition Center;Houshayu
+Houshayu,15,2010,Hualikan;Nanfaxin
+Nanfaxin,15,2010,Houshayu;Shimen
+Shimen,15,2010,Nanfaxin;Shunyi
+Shunyi,15,2010,Shimen;Fengbo
+Fengbo,15,2011,Shunyi
+Wanshou寺 (Wanshou Temple),16,2022,Suzhoujie
+Suzhoujie,16,2022,Wanshou寺;Suzhouqiao
+Suzhouqiao,16,2022,Suzhoujie;Wanquanheqiao
+Wanquanheqiao,16,2020,Suzhouqiao;Xiyuan
+Xiyuan,16,2020,Wanquanheqiao;Nongda Nanlu
+Nongda Nanlu,16,2020,Xiyuan;Malianwa
+Malianwa,16,2020,Nongda Nanlu;Xibeiwang
+Xibeiwang,16,2016,Malianwa;Daoxianghu Lu
+Daoxianghu Lu,16,2016,Xibeiwang;Tundian
+Tundian,16,2016,Daoxianghu Lu;Beianhe
+Beianhe,16,2016,Tundian
+Yushuzhuang,16,2023,Hongtaizhuang
+Hongtaizhuang,16,2023,Yushuzhuang;Yuyuantan Park East Gate
+Yuyuantan Park East Gate,16,2023,Hongtaizhuang;Muxidi
+Muxidi,16,2023,Yuyuantan Park East Gate;Daguanying
+Daguanying,16,2023,Muxidi;Fengtai Railway Station
+Fengtai Railway Station,16,2022,Daguanying;Fengyiqiao South
+Fengyiqiao South,16,2022,Fengtai Railway Station;Elixiu
+Elixiu,16,2022,Fengyiqiao South;Yushuzhuang
+Workers' Stadium,17,2023,Xindonglu
+Xindonglu,17,2023,Workers' Stadium;Zuojiazhuang
+Zuojiazhuang,17,2023,Xindonglu;Taiyanggong
+Taiyanggong,17,2023,Zuojiazhuang;Xibahe
+Xibahe,17,2023,Taiyanggong;Hepingxiqiao
+Hepingxiqiao,17,2023,Xibahe;Beiyuanlu North
+Beiyuanlu North,17,2023,Hepingxiqiao;Qingnian Road
+Qingnian Road,17,2023,Beiyuanlu North;Tiantongyuan East
+Tiantongyuan East,17,2023,Qingnian Road;Weilai Kexuecheng North
+Weilai Kexuecheng North,17,2023,Tiantongyuan East;Weilai Kexuecheng
+Weilai Kexuecheng,17,2023,Weilai Kexuecheng North
+Shilihe,17,2021,Zhoujiazhuang
+Zhoujiazhuang,17,2021,Shilihe;Shiliuzhuang
+Shiliuzhuang,17,2021,Zhoujiazhuang;Jiaheyan
+Jiaheyan,17,2021,Shiliuzhuang
+Mudanjiang,19,2021,Beitaipingzhuang
+Beitaipingzhuang,19,2021,Mudanjiang;Jishuitan
+Jishuitan,19,2021,Beitaipingzhuang;Ping'anli
+Ping'anli,19,2021,Jishuitan;Niujie
+Niujie,19,2021,Ping'anli;Jingfengmen
+Jingfengmen,19,2021,Niujie;Caoqiao
+Caoqiao,19,2021,Jingfengmen;Xingong
+Xingong,19,2021,Caoqiao
+Changping Xishankou,Changping,2015,Tianshoulu
+Tianshoulu,Changping,2015,Changping Xishankou;Changping
+Changping,Changping,2015,Tianshoulu;Changping Dongguan
+Changping Dongguan,Changping,2015,Changping;Beishaowa
+Beishaowa,Changping,2010,Changping Dongguan;Nanshao
+Nanshao,Changping,2010,Beishaowa;Shahe Gaojiaoyuan
+Shahe Gaojiaoyuan,Changping,2010,Nanshao;Shahe
+Shahe,Changping,2010,Shahe Gaojiaoyuan;Gonghuacheng
+Gonghuacheng,Changping,2010,Shahe;Zhuxinzhuang
+Zhuxinzhuang,Changping,2010,Gonghuacheng;Life Science Park
+Life Science Park,Changping,2010,Zhuxinzhuang;Qinghe Railway Station
+Qinghe Railway Station,Changping,2021,Life Science Park;Qinghe
+Qinghe,Changping,2021,Qinghe Railway Station;Xi'erqi
+Xi'erqi,Changping,2010,Qinghe
+Caoqiao,Daxing Airport Express,2019,Daxing New City
+Daxing New City,Daxing Airport Express,2019,Caoqiao;Daxing Airport
+Daxing Airport,Daxing Airport Express,2019,Daxing New City;Daxing Airport South
+Daxing Airport South,Daxing Airport Express,2019,Daxing Airport
+Guogongzhuang,Fangshan,2011,Dabaotai
+Dabaotai,Fangshan,2010,Guogongzhuang;Daotian
+Daotian,Fangshan,2010,Dabaotai;Changyang
+Changyang,Fangshan,2010,Daotian;Libafang
+Libafang,Fangshan,2010,Changyang;Guangyangcheng
+Guangyangcheng,Fangshan,2010,Libafang;Liangxiang University Town North
+Liangxiang University Town North,Fangshan,2010,Guangyangcheng;Liangxiang University Town
+Liangxiang University Town,Fangshan,2010,Liangxiang University Town North;Liangxiang University Town West
+Liangxiang University Town West,Fangshan,2010,Liangxiang University Town;Liangxiang Nanguan
+Liangxiang Nanguan,Fangshan,2010,Liangxiang University Town West;Suzhuang
+Suzhuang,Fangshan,2010,Liangxiang Nanguan;Yancun East
+Yancun East,Fangshan,2017,Suzhuang
+Yancun East,Yanfang,2017,Zicaowu
+Zicaowu,Yanfang,2017,Yancun East;Yancun
+Yancun,Yanfang,2017,Zicaowu;Xingcheng
+Xingcheng,Yanfang,2017,Yancun;Dashihe East
+Dashihe East,Yanfang,2017,Xingcheng;Mazhuang
+Mazhuang,Yanfang,2017,Dashihe East;Raolefu
+Raolefu,Yanfang,2017,Mazhuang;Fangshan Chengguan
+Fangshan Chengguan,Yanfang,2017,Raolefu;Yanshan
+Yanshan,Yanfang,2017,Fangshan Chengguan
+Dongzhimen,Capital Airport Express,2008,Sanyuanqiao
+Sanyuanqiao,Capital Airport Express,2008,Dongzhimen;Terminal 3
+Terminal 3,Capital Airport Express,2008,Sanyuanqiao;Terminal 2
+Terminal 2,Capital Airport Express,2008,Terminal 3;Beixinqiao
+Beixinqiao,Capital Airport Express,2021,Terminal 2
+Pingguoyuan,S1,2021,Jin'anqiao
+Jin'anqiao,S1,2017,Pingguoyuan;Sidaoqiao
+Sidaoqiao,S1,2017,Jin'anqiao;Qiaohuying
+Qiaohuying,S1,2017,Sidaoqiao;Shangancun
+Shangancun,S1,2017,Qiaohuying;Liyuanzhuang
+Liyuanzhuang,S1,2017,Shangancun;Xiaoyuan
+Xiaoyuan,S1,2017,Liyuanzhuang;Shichang
+Shichang,S1,2017,Xiaoyuan
+Bagou,Xijiao,2017,Yiheyuan Ximen
+Yiheyuan Ximen,Xijiao,2017,Bagou;Chapeng
+Chapeng,Xijiao,2017,Yiheyuan Ximen;Wan'an
+Wan'an,Xijiao,2017,Chapeng;Botanical Garden
+Botanical Garden,Xijiao,2017,Wan'an;Fragrant Hills
+Fragrant Hills,Xijiao,2017,Botanical Garden
+Songjiazhuang,Yizhuang,2010,Xiaocun
+Xiaocun,Yizhuang,2010,Songjiazhuang;Xiaohongmen
+Xiaohongmen,Yizhuang,2010,Xiaocun;Jiugong
+Jiugong,Yizhuang,2010,Xiaohongmen;Yizhuangqiao
+Yizhuangqiao,Yizhuang,2010,Jiugong;Yizhuang Culture Park
+Yizhuang Culture Park,Yizhuang,2010,Yizhuangqiao;Wanyuanjie
+Wanyuanjie,Yizhuang,2010,Yizhuang Culture Park;Rongjingdongjie
+Rongjingdongjie,Yizhuang,2010,Wanyuanjie;Rongchangdongjie
+Rongchangdongjie,Yizhuang,2010,Rongjingdongjie;Tongjinanlu
+Tongjinanlu,Yizhuang,2010,Rongchangdongjie;Jinghai Yilu
+Jinghai Yilu,Yizhuang,2010,Tongjinanlu;Ciqu South
+Ciqu South,Yizhuang,2010,Jinghai Yilu;Ciqu
+Ciqu,Yizhuang,2010,Ciqu South;Yizhuang Railway Station
+Yizhuang Railway Station,Yizhuang,2018,Ciqu
+Quzhuang,Yizhuang T1,2020,Rongxingjie
+Rongxingjie,Yizhuang T1,2020,Quzhuang;Ruihezhuang
+Ruihezhuang,Yizhuang T1,2020,Rongxingjie;Taiheqiao North
+Taiheqiao North,Yizhuang T1,2020,Ruihezhuang;Sihaizhuang
+Sihaizhuang,Yizhuang T1,2020,Taiheqiao North;Jiuhaocun
+Jiuhaocun,Yizhuang T1,2020,Sihaizhuang;Taihe Lu
+Taihe Lu,Yizhuang T1,2020,Jiuhaocun;Shibaliju
+Shibaliju,Yizhuang T1,2020,Taihe Lu;Bohaizhuang
+Bohaizhuang,Yizhuang T1,2020,Shibaliju;Yizhuang Tongren
+Yizhuang Tongren,Yizhuang T1,2020,Bohaizhuang;Rongchang Dongjie
+Rongchang Dongjie,Yizhuang T1,2020,Yizhuang Tongren;Yizhuang Chuangxinyuan
+Yizhuang Chuangxinyuan,Yizhuang T1,2020,Rongchang Dongjie;Jinghai Yilu
+Jinghai Yilu,Yizhuang T1,2020,Yizhuang Chuangxinyuan;Dinghaiyuan
+Dinghaiyuan,Yizhuang T1,2020,Jinghai Yilu
