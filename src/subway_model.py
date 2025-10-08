@@ -52,8 +52,8 @@ class SubwayGraph:
             if missing_columns:
                 raise ValueError(f"Missing required columns: {missing_columns}")
             
-            # Convert opening_date to datetime
-            self.data['opening_date'] = pd.to_datetime(self.data['opening_date'])
+            # Convert opening_date to datetime (treat as year)
+            self.data['opening_date'] = pd.to_datetime(self.data['opening_date'], format='%Y')
             
             # Build stations info dictionary
             self._build_stations_info()
