@@ -7,12 +7,12 @@ including centrality measures, connectivity metrics, and structural analysis.
 
 import networkx as nx
 import numpy as np
-from typing import Dict, List, Tuple, Optional, Union
+from typing import Dict, List, Tuple, Optional
 import pandas as pd
 from collections import defaultdict
 
 
-def calculate_network_stats(graph: nx.Graph) -> Dict[str, Union[int, float]]:
+def calculate_network_stats(graph: nx.Graph) -> Dict[str, int | float]:
     """
     Calculate basic network statistics for a subway graph.
     
@@ -20,11 +20,11 @@ def calculate_network_stats(graph: nx.Graph) -> Dict[str, Union[int, float]]:
         graph (nx.Graph): NetworkX graph representing the subway network
         
     Returns:
-        Dict[str, Union[int, float]]: Dictionary containing basic network statistics
+        Dict[str, int | float]: Dictionary containing basic network statistics
     """
     if graph.number_of_nodes() == 0:
         return {
-            'num_nodes': 0,
+            'num_nodes': 0, # the number of the notes
             'num_edges': 0,
             'density': 0.0,
             'num_components': 0,
@@ -408,7 +408,7 @@ def calculate_small_world_metrics(graph: nx.Graph) -> Dict[str, float]:
         }
 
 
-def analyze_degree_distribution(graph: nx.Graph) -> Dict[str, Union[List, float]]:
+def analyze_degree_distribution(graph: nx.Graph) -> Dict[str, List | float]:
     """
     Analyze the degree distribution of the network.
     
@@ -416,7 +416,7 @@ def analyze_degree_distribution(graph: nx.Graph) -> Dict[str, Union[List, float]
         graph (nx.Graph): NetworkX graph representing the subway network
         
     Returns:
-        Dict[str, Union[List, float]]: Dictionary containing degree distribution analysis
+        Dict[str, List | float]: Dictionary containing degree distribution analysis
     """
     if graph.number_of_nodes() == 0:
         return {
