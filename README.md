@@ -85,31 +85,6 @@ The easiest way to explore our analysis is through Jupyter notebooks. Here's how
    - Or use the "Run All" button to execute the entire notebook
    - Results and figures will appear below each code cell
 
-### Using the Code Directly
-
-If you prefer to use the code in your own scripts:
-
-```python
-# Import the subway model
-from src.subway_model import SubwayGraph
-
-# Load the data
-subway = SubwayGraph('data/beijing_subway_data.csv')
-
-# Build a network for a specific year
-graph_2023 = subway.build_graph_for_date('2023')
-
-# Get basic statistics
-print(f"Stations: {graph_2023.number_of_nodes()}")
-print(f"Connections: {graph_2023.number_of_edges()}")
-
-# Use analysis tools
-from utils.analysis_tools import calculate_network_stats
-
-stats = calculate_network_stats(graph_2023)
-print(f"Network density: {stats['density']:.4f}")
-```
-
 ### Generating Figures
 
 All figures are automatically generated when you run the notebooks. They will be saved in the `figures/` folder. You can use these images in reports or presentations.
