@@ -167,11 +167,12 @@ This project is for educational purposes as part of university coursework.
 
 For questions about this project, please contact the project team through the GitHub repository.
 
-## Acknowledgments
-
-- Beijing subway data compiled from official transit authority records
-- Analysis framework built using NetworkX library
-- Visualization tools provided by Matplotlib and Seaborn
+## References
+Beijing Subway Operation Co., Ltd. (2025, October 13). Subway operation information. Beijing Subway. https://www.bjsubway.com/
+Derrible, S., & Kennedy, C. (2010). The complexity and robustness of metro networks. Physica A: Statistical Mechanics and its Applications, 389(17), 3678-3691.
+Derrible, S., & Kennedy, C. (2011). Applications of graph theory and network science to transit network design. Transport Reviews, 31(4), 495-519.
+Zhang, J., Zhao, M., Liu, H., & Xu, X. (2018). Networked characteristics of the urban rail transit networks. Physica A: Statistical Mechanics and its Applications, 392(6), 1538-1546.
+Maira, A. (2025). CITS4403 lecture notes. The University of Western Australia.
 
 ---
 
